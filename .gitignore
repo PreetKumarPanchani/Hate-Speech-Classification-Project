@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore notebook/Experiment.ipynb as it is big ipynb file, hard to push to Github
+notebook/*
