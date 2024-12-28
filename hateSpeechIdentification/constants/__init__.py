@@ -16,6 +16,7 @@ DATA_INGESTION_ARTIFACT_DIR: str = 'DataIngestionArtifacts'
 DATA_INGESTION_IMBALANCE_DATA_DIR: str = 'imbalanced_data.csv'
 DATA_INGESTION_RAW_DATA_DIR: str = 'raw_data.csv'
 
+ 
 
 # Data Transformation Constants
 DATA_TRANSFORMATION_ARTIFACTS_DIR = 'DataTransformationArtifacts'

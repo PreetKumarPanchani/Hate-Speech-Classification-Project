@@ -9,6 +9,7 @@ from hateSpeechIdentification.exception import CustomException
 from keras.utils import pad_sequences
 from hateSpeechIdentification.constants import *
 
+
 from hateSpeechIdentification.configuration.gcloud_syncer import GCloudSync
 # from keras.preprocessing.text import Tokenizer
 from sklearn.metrics import confusion_matrix

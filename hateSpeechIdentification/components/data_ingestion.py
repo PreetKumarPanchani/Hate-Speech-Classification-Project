@@ -47,6 +47,7 @@ class DataIngestion:
 
 
 
+
     def initiate_data_ingestion(self) -> DataIngestionArtifacts:
         logging.info("Entered the initiate_data_ingestion method of Data ingestion class")
 

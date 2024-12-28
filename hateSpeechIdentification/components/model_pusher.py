@@ -6,6 +6,7 @@ from hateSpeechIdentification.entity.config_entity import ModelPusherConfig
 from hateSpeechIdentification.entity.artifact_entity import ModelPusherArtifacts
 
 
+
 class ModelPusher:
     def __init__(self, model_pusher_config: ModelPusherConfig):
         """

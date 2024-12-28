@@ -107,6 +107,7 @@ class DataTransformation:
 
 
 
+
     def initiate_data_transformation(self) -> DataTransformationArtifacts:
         try:
             logging.info("Entered the initiate_data_transformation method of Data transformation class")

@@ -28,6 +28,7 @@ class ModelEvaluationArtifacts:
 
 
 
+
 @dataclass
 class ModelPusherArtifacts:
     bucket_name: str
